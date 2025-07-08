@@ -1,0 +1,2 @@
+# Ensemble-Machine-Learning-Model-for-Better-Crop-Production
+This project uses an ensemble of machine learning algorithms to predict optimal crop choices based on environmental and soil conditions. By combining models like AdaBoost, Random Forest and Naive Bayes, and also comparing with other models, it enhances prediction accuracy to support smarter agricultural decisions and improved crop yields.
